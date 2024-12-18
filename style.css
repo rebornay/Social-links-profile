@@ -81,7 +81,8 @@
 
   /* ***************************HEADER-MAIN STYLING*********************** */
   .header-main {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    border: none;
   }
 /* *************PROFILE PIC STYLING************ */
   .profile-pic {
@@ -107,13 +108,15 @@
   /* **************************************MAIN P TEXT STYLING************ */
   .main-p-text {
     text-align: center;
-    padding: .8rem 0;
+    /* padding: .8rem 0; */
+    padding-block-start: .8rem ;
     color: var(--White);
   }
 
   /* ***************************LINK SECTION STYLING*********************** */
   .link-section {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    border: none;
   }
 
   .link-section ul {
@@ -147,4 +150,13 @@
 
   .link-text:hover {
     color: var(--Grey900);
+  }
+
+
+  /* ***************************MEDIA QUERIES*********************** */
+
+  @media (min-width: 1200px) and (max-width:1440px) {
+    .main {
+      width: 30%;
+    }
   }
