@@ -5,6 +5,7 @@
   /* 2. Remove default margin */
   * {
     margin: 0;
+    list-style: none;
   }
   
   body {
@@ -88,3 +89,9 @@
   .header-main-textbox {
   text-align: center;
   }
+  /* **************************************MAIN P TEXT STYLING************ */
+  .main-p-text {
+    text-align: center;
+  }
+
+  /* ***************************HEADER-MAIN STYLING*********************** */
