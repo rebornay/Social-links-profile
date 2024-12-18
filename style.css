@@ -160,3 +160,13 @@
       width: 30%;
     }
   }
+
+    .attribution { 
+      font-size: 11px; 
+      text-align: center;
+      color: var(--White); 
+      padding: 1rem 0;
+    }
+    .attribution a { 
+      color: var(--Green); 
+    }
