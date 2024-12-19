@@ -101,8 +101,9 @@
     color: var(--White);
   }
 
-  .header-main-textbox h3{
+  .header-main-textbox h2{
     color: var(--Green);
+    font-size: 1.2rem;
   }
   
   /* **************************************MAIN P TEXT STYLING************ */

@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rebornay/Social-links-profile)
-- Live Site URL: [Add live site URL here](https://rebornay.github.io/Social-links-profile/)
+- Solution URL: [Solution URL](https://github.com/rebornay/Social-links-profile)
+- Live Site URL: [Live Site URL](https://rebornay.github.io/Social-links-profile/)
 
 ## My process
 
